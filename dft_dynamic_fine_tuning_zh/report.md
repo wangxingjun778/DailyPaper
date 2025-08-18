@@ -6,7 +6,7 @@
 
 ## 1. 研究背景与方法概述
 
-本文深入探讨了**动态微调（Dynamic Fine-Tuning, DFT）**方法在提升大型语言模型（LLM）数学推理能力方面的有效性。DFT是一种创新的微调范式，通过动态重加权机制优化训练过程，与传统的监督微调（Supervised Fine-Tuning, SFT）相比展现出显著优势。
+本文深入探讨了 **动态微调（Dynamic Fine-Tuning, DFT）** 方法在提升大型语言模型（LLM）数学推理能力方面的有效性。DFT是一种创新的微调范式，通过动态重加权机制优化训练过程，与传统的监督微调（Supervised Fine-Tuning, SFT）相比展现出显著优势。
 
 研究在多个维度评估了DFT的性能：
 - 在5个数学推理基准测试上的表现（Math500、Minerva Math、Olympiad Bench、AIME 2024、AMC 2023）

@@ -1,4 +1,6 @@
-好的，遵照您的要求，我将对这篇文章进行深入分析和总结，并生成一份符合MECE原则、图文并茂的Markdown格式报告。
+<span style="color: darkgreen; font-weight: bold; font-family: monospace;">Powered by [MS-Agent](https://github.com/modelscope/ms-agent) | [DocResearch](https://github.com/modelscope/ms-agent/blob/main/projects/doc_research/README.md)</span>
+<br>
+
 
 ---
 

@@ -1,6 +1,7 @@
 # Daily Paper
 
 ## 🎉 News
+- 🚀 **[2025.08.24]** Add `A Comprehensive Survey of Self-Evolving AI Agents` report in Chinese. See [Survey_Self-Evolving Agent](Survey_Agent_Self-Evolving_zh/report.md).
 - 🚀 **[2025.08.22]** Add `Intern-S1` report in Chinese. See [Intern-S1_zh](Intern-S1_Tech_Report/report.md).
 - 🚀 **[2025.08.20]** Add `Qwen-Image` report in Chinese. See [Qwen-Image_zh](Qwen-Image_Tech_Report/report.md).
 - 🚀 **[2025.08.19]** Add `DINOv3` report in Chinese. See [DINOv3_zh](DINOv3_zh/report.md).

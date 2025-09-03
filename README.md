@@ -1,6 +1,8 @@
 # Daily Paper
 
 ## 🎉 News
+
+- 🚀 **[2025.09.03]** Add `Agent_Lightning_zh` report in Chinese. See [Agent_Lightning_zh](Agent_Lightning_zh/report.md).
 - 🚀 **[2025.09.01]** Add `LongCat_report_zh` report in Chinese. See [LongCat_report_zh](LongCat_report_zh/report.md).
 - 🚀 **[2025.08.26]** Add `Memento_zh` report in Chinese. See [Memento_zh](Memento_zh/report.md).
 - 🚀 **[2025.08.24]** Add `A Comprehensive Survey of Self-Evolving AI Agents` report in Chinese. See [Survey_Self-Evolving Agent](Survey_Agent_Self-Evolving_zh/report.md).
